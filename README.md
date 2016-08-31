@@ -40,5 +40,14 @@ Levantar o servidor embutido do PHP.
 # Sobre o Vagrant e PuPHPet
 Uma ótima opção para quem trabalha em equipe e quer garantir que todos tenham o mesmo ambiente de desenvolvimento é a utilização o Vagrant.
 
-##### PuPHPet
+***===================== Anotações sobre PHP ======================***
+
+### PuPHPet
 Recentemente gravei um vídeo sobre PuPHPet em meu canal do youtube. [Acesse clicando aqui.](https://www.youtube.com/watch?v=nK6NFDiOqjE) (O screencast está com um crop terrível, mas acho que vocês conseguem entender a idéia).
+
+### Qual a diferença entre require e inlcude?
+ Quando utilizamos require, e o arquivo não for encontrado o PHP retornará um Fatal error, já o include apenas um warning e a aplicação continuará rodando.
+ 
+ 
+ 
+ 
